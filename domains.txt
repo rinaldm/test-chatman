@@ -1,0 +1,18 @@
+Common Name
+Lyncedge.fortworthtexas.gov
+ 
+SAN Name
+lyncedge.fortworthtexas.gov access edge
+lyncweb.fortworthtexas.gov web conference edge
+sip.fortworthtexas.gov
+sip.fortworthlibrary.org
+lyncwebext.fortworthtexas.gov external web conf pool
+officeweb01.fortworthtexas.gov office web apps
+dialin.fortworthtexas.gov simple 
+meet.fortworthtexas.gov simple	
+meet.fortworthlibrary.org simple
+lyncdiscover.fortworthtexas.gov mobile clients
+lyncdiscover.fortworthlibrary.org
+
+
+lyncedge01.ci.fort-worth.tx.us
